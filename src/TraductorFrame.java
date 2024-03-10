@@ -45,8 +45,7 @@ public class TraductorFrame extends javax.swing.JFrame {
         diccionario2.put("ocho", "eight");
         diccionario2.put("nueve", "nine");
         diccionario2.put("diez", "ten");
-        diccionario2.put("once", "eleven");
-        diccionario2.put("doce", "twelve");
+        
      
         
         
